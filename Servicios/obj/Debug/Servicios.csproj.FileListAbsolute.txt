@@ -1,0 +1,9 @@
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Servicios\bin\Debug\Servicios.dll
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Servicios\bin\Debug\Servicios.pdb
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Servicios\bin\Debug\Entidades.dll
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Servicios\bin\Debug\Entidades.pdb
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Servicios\obj\Debug\Servicios.dll
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Servicios\obj\Debug\Servicios.pdb

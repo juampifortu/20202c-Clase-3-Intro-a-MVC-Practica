@@ -1,0 +1,5 @@
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Entidades\bin\Debug\Entidades.dll
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Entidades\bin\Debug\Entidades.pdb
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Entidades\obj\Debug\Entidades.dll
+C:\Users\w10pro\source\repos\20202c-Clase-3-Intro-a-MVC-Practica\Entidades\obj\Debug\Entidades.pdb
